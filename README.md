@@ -11,3 +11,8 @@
 ## Genetic studies
 
 * 15 years of GWAS discovery: Realizing the promise - https://doi.org/10.1016/j.ajhg.2022.12.011
+
+
+## Deep learning
+
+* https://deeplearning.neuromatch.io/index.html
