@@ -1,18 +1,21 @@
-# Onboarding
+# Pividori Lab Onboarding Repository
 
-# Reading
+The repository is home to the onboarding information for the [Pividori Lab](https://pivlab.org/) at the University of Colorado School of Medicine.
+**See [`onboarding.md`](onboarding.md)** for the onboarding information.
 
-## General
+## Contributing
 
-* https://fermatslibrary.com/s/the-importance-of-stupidity-in-scientific-research
-* Robbins & Kumar Basic Pathology, Eleventh Edition: https://www.clinicalkey.com/#!/browse/book/3-s2.0-C20190021577
-  * It has a nice introduction to Pathology, for example.
+To propose a change, submit a pull request.
+Consider the following goals of the onboarding document:
 
-## Genetic studies
++ Simple: Use straightforward language and avoid jargon.
++ Concise: The document should be readable in a single sitting.
++ Specific: It should be targeted to the lab in question.
++ Enforceable: Failure to meet expectations should have consequences.
++ Living: The document is expected to change.
++ Local Resources: (should this be part of a separate document?)
 
-* 15 years of GWAS discovery: Realizing the promise - https://doi.org/10.1016/j.ajhg.2022.12.011
+## License
 
-
-## Deep learning
-
-* https://deeplearning.neuromatch.io/index.html
+This repository is dedicated to the public domain.
+See the [`LICENSE`](LICENSE) file for more details.
