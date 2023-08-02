@@ -261,7 +261,7 @@ Keeping the pull request focused to one area makes it easier for your reviewers 
 
 **Reviewing pull requests:** We expect that all lab members will participate in review of pull requests.
 If you get named by the submitter, it's courteous to review the request.
-We have created a [checklist](https://github.com/pivlab/onboarding/blob/master/extras/code_review_checklist.md) to facilitate review.
+We have created a [checklist](https://github.com/pivlab/onboarding/blob/master/docs/code_review_checklist.md) to facilitate review.
 As a reviewer, you are responsible for making sure that all checklist guidelines are followed.
 
 **Projects that didn't work:** We expect that repositories will contain failures (e.g. proof-of-concepts that didn't work).
