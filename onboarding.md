@@ -1,6 +1,6 @@
-# Pividori Laboratory Onboarding Information
+# Pividori Laboratory onboarding information
 
-# Mission Statement
+# Mission statement
 
 Our lab is dedicated to advancing precision medicine through novel machine-learning methods.
 Our primary focus is on developing novel algorithms and tools that integrate genetic studies with multi-omics data to unravel the complex interplay between genetics and disease.
@@ -38,7 +38,7 @@ Oral presentations on projects must be presented to the research lab during a `b
 Once a project has been presented once and feedback incorporated, additional presentations are optional in advance of meetings.
 Poster presentations should be shared in the `#general` slack channel at least a week before printing.
 
-**Code of Conduct:** All members of the lab, along with visitors, are expected to agree with this code of conduct.
+**Code of conduct:** All members of the lab, along with visitors, are expected to agree with this code of conduct.
 We will enforce this code.
 We expect cooperation from all members to help ensuring a safe environment for everybody.
 The lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
@@ -67,13 +67,13 @@ While a full enumeration of ethical considerations is outside of the scope of th
 
 In addition, please don't hesitate to raise any questions or concerns that you have at any point with Milton.
 
-**PhD Student Committees:** PhD students will interact with their qualifier and thesis committees.
+**PhD student committees:** PhD students will interact with their qualifier and thesis committees.
 Students should correspond with the coordinator for their graduate program to understand the expectations that exist around communication with committee members.
 Questions around what document(s) their committee will expect to see and when they should be sent to the committee should be resolved with the coordinator at least a month in advance of a scheduled meeting.
 Students in the Pividori Lab are not to provide food or drinks for committee members.
 If the students are in a graduate program where a culture of providing food and drinks to committee members has developed, the students can include the information that no food or drink will be provided on an email in advance of the meeting and cite this policy.
 
-**Conference Travel:** We try to make sure that each member of the lab can travel to one conference per year of their choice outside of their home region.
+**Conference travel:** We try to make sure that each member of the lab can travel to one conference per year of their choice outside of their home region.
 The conference should be within the continental United States or cost competitive with similar conferences in the continental US.
 Lab members who travel to such a conference should submit an abstract for an oral presentation and poster and should present in whatever form is accepted at the meeting.
 The conference should be topical for the lab member's research projects and the purpose must align with the grant(s) that support the lab member.
@@ -149,35 +149,35 @@ The update should include the following:
     3. Who, if anyone, is blocking them?
     4. Who, if anyone, are they blocking? -->
 
-**Lab Meeting:** 
+**Lab meeting:** 
 - Lab meetings are scheduled for one hour on Wednesdays. All members of the Pividori lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
 
-   **Meeting Agenda:**  The format of each meeting will be chosen by the lab meeting lead from the options below. The lead will rotate among lab members (see below) within the group. Guests with aligned research interests may join with a supermajority vote of lab members (>2/3) and are expected to attend and participate fully.
+   **Meeting agenda:**  The format of each meeting will be chosen by the lab meeting lead from the options below. The lead will rotate among lab members (see below) within the group. Guests with aligned research interests may join with a supermajority vote of lab members (>2/3) and are expected to attend and participate fully.
 
     The lead will choose the format for each meeting. The different options for meeting formats are outlined below. Each member is expected to lead at least two Braintrust meetings per year (one every 6 months). 
 
    - **Format 1: Braintrust**
         - The meeting lead presents their own research/project to the group. Presenters often focus on open questions or challenges in their work. Occasionally, they present a new talk or set of slides that they intend to deliver at a meeting, job talk, etc. This is a way for the group to get familiar with each other's work. It is also a good way to get feedback, advice, or help with research if needed.
-   - **Format 2: Tech Talk/Discussion**
+   - **Format 2: Tech talk/discussion**
         - Talks on commonly used tech in the labs, or strategies for staying on top of the literature, organization, etc.    
-   - **Format 3: Post-Conference Presentations**
+   - **Format 3: Post-conference presentations**
         - Journal club talk on favorite poster/talk. Either from each person or from a selected set that the group votes on.
-   - **Format 4: Big ideas or Projects**
+   - **Format 4: Big ideas or projects**
         - This format is meant to help senior members practice for paper discussion sections/conclusions while helping newer members see where the boundaries of fields are.
-   - **Format 5: Journal Club**
+   - **Format 5: Journal club**
        - Presentation to be given by meeting leader followed by group discussion. The meeting leader should aim to send the chosen paper one week before the scheduled meeting, and lab members are expected to be familiar with the content for discussion.
-   - **Format 6: Preprint Review**
+   - **Format 6: Preprint review**
        - Pre-print is discussed by the group. The discussion is led by the meeting leader,  and all members are expected to be familiar with the content. The review is written collaboratively, but another member (not the meeting leader) formats, formalizes and uploads to the pre-print server as a comment.
 
-  **Lab Meeting Lead:**  A member of the Pividori lab is expected to present/lead each lab meeting as scheduled in the lab meeting calendar (sign up at [https://docs.google.com/document/d/1KeYg1_ijgHTMxQQLohcmtGX8wEYs_-ayUOn0kmtSq2U/edit?usp=sharing])
+  **Lab meeting lead:**  A member of the Pividori lab is expected to present/lead each lab meeting as scheduled in the lab meeting calendar (sign up at [https://docs.google.com/document/d/1KeYg1_ijgHTMxQQLohcmtGX8wEYs_-ayUOn0kmtSq2U/edit?usp=sharing])
    - Each member is expected to sign up as lead by the end of the previous academic semester (e.g., sign up by December for the Spring semester, sign up by June for the Fall semester.)
    - Lab meeting sign-ups will happen twice a year. Sign-ups will open in December and June for the upcoming 6 months.
    - Each member will sign up as lead for at least 2 lab meetings each semester (6 months). At least one of these meetings is expected to be a Braintrust meeting.
 
-  **Ad-Hoc Meetings:** After meetings have been scheduled for the semester, any member can add an ad hoc meeting as needed.
+  **Ad-hoc meetings:** After meetings have been scheduled for the semester, any member can add an ad hoc meeting as needed.
    - Ad hoc meetings are meant to help lab members get advice and help on projects, prepare for talks, oral exams, etc.
 
-**Individual Meetings:** We schedule weekly individual meetings.
+**Individual meetings:** We schedule weekly individual meetings.
  Once you join the lab, contact Milton to set up a time.
  These are set up for a term to accommodate class schedules.
  We don't reschedule these meetings by default if one of the parties (Milton or you) are out of town, so if you do want to meet in a week but travel conflicts, contact Milton to reschedule.
@@ -186,7 +186,7 @@ The update should include the following:
  1.  Discuss challenges.
  2.  Plan strategy (project related, personal career, etc).
 
-**Triannual Self Reflection:** Every four months students, postdocs, and staff will individually meet with Milton to discuss their existing goals, current progress made and set goals for the next interval.
+**Triannual self reflection:** Every four months students, postdocs, and staff will individually meet with Milton to discuss their existing goals, current progress made and set goals for the next interval.
 To prepare for these meetings students and staff are required to create an activity report that contains any of the following information (if applicable):
 
 - publications: submitted/accepted/published
@@ -206,7 +206,7 @@ Submit the report in a direct message to Milton via slack.
 <!-- This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle. -->
 <!-- Because much of the material is overlapping, trainees will benefit from preserving their self reflection materials in a format that supports copying and pasting to the IDP form. -->
 
-# Source Code, Data, and Reproducibility
+# Source dode, data, and reproducibility
 
 **Pride:** We expect lab members to sign their code, which means that source code contributions are attributable to an individual's account on GitHub.
 To quote from _The Pragmatic Programmer_:
@@ -268,10 +268,10 @@ As a reviewer, you are responsible for making sure that all checklist guidelines
 This is ideal.
 Being able to find them will make sure we don't make the same failure twice.
 
-**Non-Code Versioning:** Non-code documents should be kept in a place that maintains version history.
+**Non-code versioning:** Non-code documents should be kept in a place that maintains version history.
 The University of Colorado provides [OneDrive](https://medschool.zendesk.com/hc/en-us/sections/360005497433-OneDrive) for this purpose.
 
-**Data Management:** For publicly available data, scripts used to download and process these data should be preserved, as should the versions of items used in processing (e.g. probe to gene mappings).
+**Data management:** For publicly available data, scripts used to download and process these data should be preserved, as should the versions of items used in processing (e.g. probe to gene mappings).
 These items should be version controlled.
 Where possible, intermediate files of reasonable size can be stored to facilitate re-use, but the process to regenerate these files from publicly available data should be preserved.
 When we generate data, they should be stored in a location where they are replicated and uploaded to the relevant database as soon as possible (e.g. GEO for gene expression, SRA for sequencing).
@@ -281,7 +281,7 @@ This can be in the form of makefiles, shell scripts, or other automation approac
 We expect that these scripts, including those to generate figures in papers generated as a consequence of such analyses, will be included in source control repositories (see "Getting Code into Pividori Lab Repositories") and made publicly available before or concurrent with the submission of preprint (if submitted) or manuscripts.
 Combined with the review guidelines, this means that all code must have been reviewed for these documents to be submitted.
 
-## How to Modify this Document
+## How to modify this document
 
 This is a living document.
 The repository is at [GitHub](https://github.com/pivlab/onboarding).
