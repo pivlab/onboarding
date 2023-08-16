@@ -2,7 +2,7 @@
 
 # Mission statement
 
-Our lab is dedicated to advancing precision medicine through novel machine-learning methods.
+Our lab is dedicated to advancing precision medicine through the development and application of novel machine-learning methods.
 Our primary focus is on developing novel algorithms and tools that integrate genetic studies with multi-omics data to unravel the complex interplay between genetics and disease.
 By harnessing the power of computational analysis and systems biology, we aim to pave the way for personalized diagnostic and therapeutic approaches to complex diseases.
 We incorporate the latest advancements in machine learning and knowledge discovery to model the emergent complexity of biological systems with the aim of advancing our understanding of disease pathology and improving human health.
