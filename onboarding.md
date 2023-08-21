@@ -4,31 +4,32 @@
 
 Our lab is dedicated to advancing precision medicine through the development and application of novel machine-learning methods.
 Our primary focus is on developing novel algorithms and tools that integrate genetic studies with multi-omics data to unravel the complex interplay between genetics and disease.
-By harnessing the power of computational analysis and systems biology, we aim to pave the way for personalized diagnostic and therapeutic approaches to complex diseases.
+We aim to pave the way for personalized diagnostic and therapeutic approaches to complex diseases by harnessing the power of computational analysis and systems biology.
 We incorporate the latest advancements in machine learning and knowledge discovery to model the emergent complexity of biological systems with the aim of advancing our understanding of disease pathology and improving human health.
 
-To accomplish this, we will prioritize writing high-quality code and conducting robust and reproducible analyses, ensuring that our research is conducted within reproducible environments.
-By adopting such practices, we aim to provide biologists who use our methods and webservers with a high level of confidence in our results and processes.
+To accomplish this, we will write high-quality code and perform robust and reproducible analyses, ensuring our research is conducted within reproducible environments.
+By adopting such practices, we aim to provide biologists who use our methods and web servers with high confidence in our results and processes.
 Therefore, we are committed to maximizing openness and accessibility by making our source code available to the scientific community.
 
-When disseminating our findings through publications and webservers, we will not only share the final results but also provide complete access to the reproducible environments that generated those results.
-We recognize that trust is paramount, and to maintain that trust, we will present analytical code that we can take pride in.
-As such, we will furnish reviewers and the scientific community with all the source code necessary to recreate the figures presented in our papers resulting from computational analyses. By adopting a transparent and reproducible approach through reproducible environments and open-source code, we aim to foster a culture of trust, collaboration, and verifiability in the computational biology research field.
+When disseminating our findings through publications and web servers, we will not only share the final results but also provide complete access to the reproducible environments that generated those results.
+We recognize that trust is paramount, and to maintain that trust, we will present analytical code in which we can take pride.
+As such, we will furnish reviewers and the scientific community with all the source code necessary to recreate the figures presented in our papers resulting from computational analyses.
+By adopting a transparent and reproducible approach through reproducible environments and open-source code, we aim to foster a culture of trust, collaboration, and verifiability in the computational biology research field.
 
 # Expectations
 
 **Your role:** We expect that you will take primary responsibility for the success of your research project and career development.
 As a member of the lab, you are expected to participate fully in the team.
-In general, lab members are expected to follow weekday working hours that include 9:30AM to 4:00PM in their local timezone to facilitate discussion within the group.
-We will aim to schedule meetings that respect these hours to the extent possible between the Eastern and Pacific timezones, recognizing that certain meetings (weekly kick-off and demo day) may fall outside of these hours in certain timezones.
-In no cases should recurring meetings be scheduled that routinely fall outside of 8:00AM to 5:00PM for any lab member working within the continental United States.
+In general, lab members are expected to follow weekday working hours that include 9:30 AM to 4:00 PM in their local timezone to facilitate discussion within the group.
+We will aim to schedule meetings that respect these hours to the extent possible between the Eastern and Pacific time zones, recognizing that certain meetings (weekly kick-off and demo day) may fall outside of these hours in certain timezones.
+In no cases should recurring meetings be scheduled that routinely fall outside of 8:00 AM to 5:00 PM for any lab member working within the continental United States.
 
 **Milton's role:** Milton's goal is to facilitate your success as well as that of your project.
-Within your project, Milton will serve as a sounding board for ideas, will help you plan your project, and will help to devise experiments to test your hypotheses.
-To facilitate your success, Milton will help you to plan your training, to devise a career plan that can take you to where you want to go, to advise you on your project-risk portfolio, and to provide guidance on other elements of career and project development as needed.
-Milton is by training a software engineer and, as time allows, he will also provide feedback on your code if you request it.
+Within your project, Milton will serve as a sounding board for ideas, help you plan your project, and help devise experiments to test your hypotheses.
+To facilitate your success, Milton will help you to plan your training, devise a career plan that can take you to where you want to go, advise you on your project-risk portfolio, and provide guidance on other elements of career and project development as needed.
+Milton is by training a software engineer and as time allows, he will also provide feedback on your code if you request it.
 
-**Deadlines:** Our lab aims to develop a reputation for high-quality science that is well presented.
+**Deadlines:** Our lab aims to develop a reputation for high-quality science that is well-presented.
 For this, abstracts for meetings must be shared with all co-authors, including Milton, at least one week prior to the deadline for submission.
 Failure to abide by this guideline will result in missing whatever the opportunity in question is.
 
@@ -38,55 +39,54 @@ Oral presentations on projects must be presented to the research lab during a `b
 Once a project has been presented once and feedback incorporated, additional presentations are optional in advance of meetings.
 Poster presentations should be shared in the `#general` slack channel at least a week before printing.
 
-**Code of conduct:** All members of the lab, along with visitors, are expected to agree with this code of conduct.
+**Code of conduct:** All lab members and visitors are expected to agree with this code of conduct.
 We will enforce this code.
-We expect cooperation from all members to help ensuring a safe environment for everybody.
+We expect cooperation from all members to help ensure a safe environment for everybody.
 The lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
 We do not tolerate harassment of lab members in any form.
-Sexual language and imagery is generally not appropriate for any lab venue, including lab meetings, presentations, or discussions.
-However, do note that we work on biological matters so work-related discussions of e.g. animal reproduction are appropriate.
+Sexual language and imagery are generally not appropriate for any lab venue, including lab meetings, presentations, or discussions.
+However, do note that we work on biological matters, so work-related discussions of e.g., animal reproduction are appropriate.
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 Members asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Milton Pividori immediately.
-<!-- If Milton is the cause of your concern, Dr. X (to.be.defined@university.edu) is a good informal point of contact; he/she does not work for Casey and has agreed to mediate. -->
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Milton Pividori immediately. <!-- If Milton is the cause of your concern, Dr. X (to.be.defined@university.edu) is a good informal point of contact; he/she does not work for Milton and has agreed to mediate. -->
 For additional resolution paths, please see the University of Colorado Anschutz [ombuds](https://www.ucdenver.edu/offices/ombudsoffice) or [professionalism](https://www.cuanschutz.edu/offices/professionalism) offices.
 The code of conduct section is licensed under a Creative Commons Attribution 3.0 Unported License. <http://2012.jsconf.us/#/about> & The Ada Initiative.
 Please help by translating or improving: <http://github.com/leftlogic/confcodeofconduct.com>.
 
 We expect members to follow these guidelines at any lab-related event.
 
-**Authorship:** Our lab follows the [ICMJE's Uniform Requirements for Manuscripts Submitted to Biomedical Journals](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) defintions of the roles of authors and contributors to our manuscripts.
+**Authorship:** Our lab follows the [ICMJE's Uniform Requirements for Manuscripts Submitted to Biomedical Journals](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) definitions of the roles of authors and contributors to our manuscripts.
 
 **Ethics:** We expect lab members to be honest in scientific communications both within and outside the lab.
-We expect that lab members will design experiments in a manner that minimizes both bias and self deception.
+We expect that lab members will design experiments in a manner that minimizes both bias and self-deception.
 We expect that lab members will keep agreements, be careful, and share their code and results openly with the scientific community.
 We expect that credit will be given where credit is due, including in scientific writing.
 Plagiarism is not tolerated.
-While a full enumeration of ethical considerations is outside of the scope of this document, CU provides a [document](https://www.cu.edu/ope/aps/2027) that we recommend.
+While a full enumeration of ethical considerations is outside this document's scope, CU provides a [document](https://www.cu.edu/ope/aps/2027) that we recommend.
 
 In addition, please don't hesitate to raise any questions or concerns that you have at any point with Milton.
 
 **PhD student committees:** PhD students will interact with their qualifier and thesis committees.
 Students should correspond with the coordinator for their graduate program to understand the expectations that exist around communication with committee members.
-Questions around what document(s) their committee will expect to see and when they should be sent to the committee should be resolved with the coordinator at least a month in advance of a scheduled meeting.
+Questions about what document(s) their committee will expect to see and when they should be sent to the committee should be resolved with the coordinator at least a month in advance of a scheduled meeting.
 Students in the Pividori Lab are not to provide food or drinks for committee members.
-If the students are in a graduate program where a culture of providing food and drinks to committee members has developed, the students can include the information that no food or drink will be provided on an email in advance of the meeting and cite this policy.
+If the students are in a graduate program where a culture of providing food and drinks to committee members has developed, the students can include the information that no food or drink will be provided in an email in advance of the meeting and cite this policy.
 
 **Conference travel:** We try to make sure that each member of the lab can travel to one conference per year of their choice outside of their home region.
-The conference should be within the continental United States or cost competitive with similar conferences in the continental US.
+The conference should be within the continental United States or cost-competitive with similar conferences in the continental US.
 Lab members who travel to such a conference should submit an abstract for an oral presentation and poster and should present in whatever form is accepted at the meeting.
 The conference should be topical for the lab member's research projects and the purpose must align with the grant(s) that support the lab member.
 Lab members should first clear such travel with Milton.
 Lab members who are invited to conferences or other presentation opportunities with their costs covered by the organization inviting them, e.g., as an invited speaker or keynote, are welcome to accept such invitations.
-In all cases conference travel should be noted on the lab attendance calendar.
+In all cases, conference travel should be noted on the lab attendance calendar.
 
 # Communication
 
 ## General
 
-**Slack:** We use slack for rapid communication within the lab.
-If you plan on sending an e-mail to someone within the lab, try a slack message instead.
+**Slack:** We use Slack for rapid communication within the lab.
+If you plan on sending an e-mail to someone within the lab, try a Slack message instead.
 This helps to keep communications in one place, and Milton commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
 There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meeting`, `#random`, `#wins`.
 
@@ -103,7 +103,7 @@ If a lab member chooses to do so on an account that notes an affiliation with th
 Certain employers may require a disclaimer that the lab member's views do not represent those of the employer.
 
 **Projects:** By the nature of our research, lab members will often have the opportunity to participate in projects managed via private or publicly accessible source code repositories.
-In these cases, lab members are expected to: follow the code of conduct; expect that private repositories will be world accessible; and to communicate via the project-specific medium.
+In these cases, lab members are expected to: follow the code of conduct, expect that private repositories will be world accessible, and communicate via the project-specific medium.
 For example, when one lab member reports an issue on a project on GitHub, it would not be appropriate for another lab member to reply "I'll drop by your desk and show you how to solve that."
 It would be most appropriate for the conversation to take place on GitHub issues.
 
@@ -117,10 +117,10 @@ If you have concerns at any point, set up a meeting with Milton to discuss these
 **Calendars:** There are two Google Calendars for the lab:
 Pividori Lab Core Events ([webview](https://calendar.google.com/calendar/embed?src=be3553e88514a18468640134b8490c8935feaf39ad4b2b19552eac97f490179c%40group.calendar.google.com&ctz=America%2FDenver), Calendar ID `be3553e88514a18468640134b8490c8935feaf39ad4b2b19552eac97f490179c@group.calendar.google.com`)
 and Pividori Lab Attendance ([webview](https://calendar.google.com/calendar/embed?src=6a24540f05369a0396d08101e16d7bc040e73f479f45ce6b710999d826e49e7d%40group.calendar.google.com&ctz=America%2FDenver), Calendar ID `6a24540f05369a0396d08101e16d7bc040e73f479f45ce6b710999d826e49e7d@group.calendar.google.com`).
-The Attendance calendar is for noting individual availability (i.e. whether you'll be out of office).
+The Attendance calendar is for noting individual availability (i.e. whether you'll be out of the office).
 It should be used, for example, to note vacations, conference travel, and other workday conflicts.
 All other events should go in the Core Events calendar.
-In general, this calendar is for events that could possibly involve 3 or more lab members.
+In general, this calendar is for events that could possibly involve three or more lab members.
 Mandatory events such as lab meetings, scrums, and group deadlines go on Core Events.
 
 **Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
@@ -219,7 +219,7 @@ While some code will be proof-of-concept code, it should be of a form that inspi
 
 **Language:** We write code for our analyses in Python or R, which allows everyone in the lab to know two languages and understand analytical code.
 Code for visualization can be Python, R, or javascript.
-Webserver interface code uses javascript.
+Web server interface code uses javascript.
 
 **Licensing:**
 We release as many research outputs as possible under permissive open licenses.
