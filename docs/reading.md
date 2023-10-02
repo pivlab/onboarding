@@ -15,6 +15,7 @@
 ## Genetic studies
 
 * 15 years of GWAS discovery: Realizing the promise [link](https://doi.org/10.1016/j.ajhg.2022.12.011)
+* An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease, by Jonathan Pritchard [link](https://web.stanford.edu/group/pritchardlab/HGbook.html)
 
 ## Deep learning
 
