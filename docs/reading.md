@@ -21,3 +21,18 @@
 
 * https://deeplearning.neuromatch.io/index.html
 
+## Technical
+
+### Unlock encrypted partition remotely at boot time
+* Main article: [How to unlock LUKS using Dropbear SSH keys remotely in Linux](https://www.cyberciti.biz/security/how-to-unlock-luks-using-dropbear-ssh-keys-remotely-in-linux/)
+* In the office at AHSB:
+  * Use a static IP address as mentioned in the article above.
+  * Add a script in `/etc/initramfs-tools/scripts/init-bottom/deconfigure-interfaces` (remember to `chmod +x` it, and replace the interface/file name accordingly):
+    ```
+    #!/bin/sh
+
+    rm -f /run/netplan/enp3s0.yaml
+    ip -f inet address flush dev enp3s0
+    ```
+  * `sudo update-initramfs -u`
+
