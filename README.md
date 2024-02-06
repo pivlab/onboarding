@@ -4,7 +4,7 @@ The repository is home to the onboarding information for the [Pividori Lab](http
 **See [`onboarding.md`](onboarding.md)** for the onboarding information.
 
 ## Useful links
-* [Pividori Lab logos]([url](https://github.com/pivlab/pivlab-website/tree/main/images/logo)).
+* [Pividori Lab logos]https://github.com/pivlab/pivlab-website/tree/main/images/logo).
 
 ## Contributing
 
