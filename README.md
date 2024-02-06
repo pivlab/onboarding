@@ -3,6 +3,9 @@
 The repository is home to the onboarding information for the [Pividori Lab](https://pivlab.org/) at the University of Colorado School of Medicine.
 **See [`onboarding.md`](onboarding.md)** for the onboarding information.
 
+## Useful links
+* [Pividori Lab logos]([url](https://github.com/pivlab/pivlab-website/tree/main/images/logo)).
+
 ## Contributing
 
 To propose a change, submit a pull request.
