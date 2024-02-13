@@ -1,6 +1,17 @@
 # Pividori Lab Onboarding Repository
 
 The repository is home to the onboarding information for the [Pividori Lab](https://pivlab.org/) at the University of Colorado School of Medicine.
+
+# Checklist for new lab members
+* **Read the [`onboarding.md`](onboarding.md) document**.
+It has important information about the lab's mission, expectations, lab meetings, indiviudal meetings, source code, reproducibility, etc.
+Ask if you have questions.
+* Request access to the [lab's GitHub organization](https://github.com/pivlab).
+For this, Milton will need your GitHub user.
+* Request access to the [lab's Slack workspace](https://pivlab.slack.com/).
+It is usually a good idea to link this account to your CU email address.
+* 
+
 **See [`onboarding.md`](onboarding.md)** for the onboarding information.
 
 ## Useful links
