@@ -13,11 +13,12 @@ For this, Milton will need your GitHub user.
 * **Request access to the [lab's Slack workspace](https://pivlab.slack.com/)**.
 It is usually a good idea to link this account to your CU email address.
 * **Add yourself to the [lab's team webpage](https://pivlab.org/team/)**.
-For this, you need to fork the [lab's webpage repo](https://github.com/pivlab/pivlab-website), make the necessary changes, and then submit a Pull Request (PR).
+For this, you need to fork the [lab's webpage GitHub repo](https://github.com/pivlab/pivlab-website), make the necessary changes, and then submit a Pull Request (PR).
 Follow [the documentation on how to add team members](https://greene-lab.gitbook.io/lab-website-template-docs/basics/team-members) and/or take a look at [this PR](https://github.com/pivlab/pivlab-website/pull/4).
 * (optional) **Add your recent publications to the lab's website**.
-If you want visitors to know more about your research work, you can add your recent publications to the lab's website.
-Follow [the documentation on how to add your publications](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations).
+If you want visitors to know more about your research, you can add your recent publications to the lab's website.
+This usually involves modifying the `_data/sources.yaml` file.
+See [the documentation on citations](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations) for more information.
 
 **See [`onboarding.md`](onboarding.md)** for the onboarding information.
 
