@@ -20,8 +20,6 @@ If you want visitors to know more about your research, you can add your recent p
 This usually involves modifying the `_data/sources.yaml` file.
 See [the documentation on citations](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations) for more information.
 
-**See [`onboarding.md`](onboarding.md)** for the onboarding information.
-
 ## Useful links
 * [Pividori Lab logos](https://github.com/pivlab/pivlab-website/tree/main/images/logo).
 
