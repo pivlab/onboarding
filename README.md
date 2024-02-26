@@ -4,13 +4,13 @@ The repository is home to the onboarding information for the [Pividori Lab](http
 
 # Checklist for new lab members
 * **Read the [`onboarding.md`](onboarding.md) document**.
-It has important information about the lab's mission, expectations, lab meetings, indiviudal meetings, source code, reproducibility, etc.
+It has important information about the lab's mission, expectations, lab meetings, individual meetings, source code, reproducibility, etc.
 Ask if you have questions.
 * As a member of the lab, you should be able to **claim a GitHub Pro account** for your personal user.
 This can provide free access to **GitHub Copilot**.
 Check out the [GitHub Global Campus](https://education.github.com/).
 * **Request access to the [lab's GitHub organization](https://github.com/pivlab)**.
-For this, Milton will need your GitHub user.
+For this, we will need your GitHub user.
 * **Request access to the [lab's Slack workspace](https://pivlab.slack.com/)**.
 We need your email address to send you an invitation to join.
 * **Add yourself to the [lab's team webpage](https://pivlab.org/team/)**.
