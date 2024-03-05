@@ -139,15 +139,16 @@ Mandatory events such as lab meetings, scrums, and group deadlines go on Core Ev
 
 We use Google Slides to share figures or paper sections for the demo day meeting; the link is pinned in the `#lab-meeting` channel on Slack and is not intended to be shared outside the lab. If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments.
 
-The daily virtual scrum update should include an update to [darily scrum](https://github.com/orgs/pivlab/projects/4/views/2).
-(We are still testing this setup!).
-<!-- These issues can be found [here](https://github.com/pivlab/scrum/issues).
-The update should include the following:
-
-    1. What specific item(s) they accomplished yesterday.
-    2. What specific item(s) they plans to accomplish today.
-    3. Who, if anyone, is blocking them?
-    4. Who, if anyone, are they blocking? -->
+The daily virtual scrum update should include an update to [daily scrum](https://github.com/orgs/pivlab/projects/4/views/2) (We are still testing this approach!).
+Check the "Keys" item under the "No status" column, which has some standard emojis that we can use to label items with tasks according to their urgency, etc.
+You can add a new item using the buttons below under each column (To Do, In Progress, Done).
+Take a look at the existing items to see how they work.
+Every day, before you start to work, open the link above and think about:
+1. what specific items you've accomplished yesterday,
+1. what specific items you plan to accomplish today,
+1. who, if anyone, is blocking you,
+1. who, if anyone, you are blocking,
+1. take a quick look at what others are doing; can you help them?
 
 **Lab meeting:** 
 - Lab meetings are scheduled for one hour on Wednesdays. All members of the Pividori lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
