@@ -20,6 +20,7 @@ Follow [the documentation on how to add team members](https://greene-lab.gitbook
 If you want visitors to know more about your research, you can add your recent publications to the lab's website.
 This usually involves modifying the `_data/sources.yaml` file.
 See [the documentation on citations](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations) for more information.
+* **Check out [these other setup steps](docs/cu_dbmi.md) to fully join the CU Department of Biomedical Informatics**.
 
 ## Contributing
 
