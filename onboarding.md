@@ -114,19 +114,16 @@ If you have concerns at any point, set up a meeting with Milton to discuss these
 
 **Space:** Space is assigned in accordance with the [Department of Biomedical Informatics Space Policies](https://olucdenver.sharepoint.com/sites/CenterforHealthAI939/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=x1Oz36&cid=4490ca17%2D62a2%2D4093%2Da390%2Dcc8896df587d&FolderCTID=0x012000F2C178B56384E246B75AF7E31B7DEA98&id=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy%2FDBMI%20remote%2Dworking%20and%20space%20guidelines%5FFinal%2Epdf&parent=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy). For individuals meeting the criteria for assigned space, a lab member needs to fill out the [DBMI Space Request Form](https://app.smartsheet.com/b/form/575a2b48af774e3db5689745809c9a5c).
 
-**Calendars:** There are two Google Calendars for the lab:
-Pividori Lab Core Events ([webview](https://calendar.google.com/calendar/embed?src=be3553e88514a18468640134b8490c8935feaf39ad4b2b19552eac97f490179c%40group.calendar.google.com&ctz=America%2FDenver), Calendar ID `be3553e88514a18468640134b8490c8935feaf39ad4b2b19552eac97f490179c@group.calendar.google.com`)
-and Pividori Lab Attendance ([webview](https://calendar.google.com/calendar/embed?src=6a24540f05369a0396d08101e16d7bc040e73f479f45ce6b710999d826e49e7d%40group.calendar.google.com&ctz=America%2FDenver), Calendar ID `6a24540f05369a0396d08101e16d7bc040e73f479f45ce6b710999d826e49e7d@group.calendar.google.com`).
-The Attendance calendar is for noting individual availability (i.e. whether you'll be out of the office).
-It should be used, for example, to note vacations, conference travel, and other workday conflicts.
-All other events should go in the Core Events calendar.
-In general, this calendar is for events that could possibly involve three or more lab members.
-Mandatory events such as lab meetings, scrums, and group deadlines go on Core Events.
+**Calendars:** When you join the lab, you should be added to the "Pividori Lab" group in Outlook.
+In this group, we have a calendar that you should be able to see and modify.
+In this calendar, we add:
+1. *lab events*: mandatory events such as lab meetings, scrums, and group deadlines.
+1. *attendance*: for noting individual availability (i.e. whether you'll be out of the office); it should be used, for example, to note vacations, conference travel, and other workday conflicts.
 
 **Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
 
 + GitHub (pivlab)
-+ Google Calender (shared calendar)
++ Outook (this is the CU account; you should be part of the "Pividori Lab" group)
 + Slack (Pividori Lab, pivlab.slack.com)
 
 ## Meetings
