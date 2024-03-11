@@ -88,11 +88,11 @@ In all cases, conference travel should be noted on the lab attendance calendar.
 **Slack:** We use Slack for rapid communication within the lab.
 If you plan on sending an e-mail to someone within the lab, try a Slack message instead.
 This helps to keep communications in one place, and Milton commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
-There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meeting`, `#random`, `#wins`.
+There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meetings`, `#daily-tasks` `#random`, `#wins`.
 
 **HeyTaco:** We recognize that people regularly go above and beyond lab expectations.
 We wanted a way to recognize each other when this happens.
-We now use HeyTaco.
+We use HeyTaco.
 This allows lab members to send a quick virtual thank you note and/or pat on the back.
 If someone's paper gets accepted or someone helps you out with a programming question, congratulate or thank them.
 Post a message that mentions any user in the `#wins` Slack channel, and they'll get a HeyTaco point.
@@ -131,24 +131,30 @@ Mandatory events such as lab meetings, scrums, and group deadlines go on Core Ev
 
 ## Meetings
 
-**Scrum:** Our team's scrum process involves three components:
+Our team's scrum process ("scrum" is a framework typically used in software development) involves three components:
 
-    1. A weekly kick-off meeting at 10:30 AM ET / 8:30 AM MT Monday morning where individuals will lay out their goals for the week on Zoom.
-    2. A demo day meeting at 3:30 PM ET / 1:30 PM MT Friday afternoon where team members show off an accomplishment from the week in 3 minutes or fewer. This could be a new figure, section of a paper, some code that they are particularly happy with, or something that we learned from a paper, poster, or research presentation.
-    3. A daily virtual scrum update.
+1. A *weekly kick-off meeting* at 9:30 AM MT on Monday morning.
+2. A *weekly demo day meeting* at 1:00 PM MT on Friday afternoon.
+3. A *daily virtual scrum update*.
 
-We use Google Slides to share figures or paper sections for the demo day meeting; the link is pinned in the `#lab-meeting` channel on Slack and is not intended to be shared outside the lab. If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments.
+**Weekly kick-off meeting:** This is a quick (~5 minutes) virtual lab meeting where individuals will lay out their goals for the week on Zoom.
+Each lab member is encouraged to open and update the [pivlab weekly goals](https://github.com/orgs/pivlab/projects/4/views/2) project with their goals for the week.
+You can add a new item using the buttons below under each column (To Do, In Progress, Done); take a look at the existing items to see how they work.
+The person leading this meeting should open the link and share the screen, and then each lab member (starting from the oldest member) quickly explains what goals they want to accomplish during this week.
 
-The daily virtual scrum update should include an update to [daily scrum](https://github.com/orgs/pivlab/projects/4/views/2) (We are still testing this approach!).
-Check the "Keys" item under the "No status" column, which has some standard emojis that we can use to label items with tasks according to their urgency, etc.
-You can add a new item using the buttons below under each column (To Do, In Progress, Done).
-Take a look at the existing items to see how they work.
-Every day, before you start to work, open the link above and think about:
+**Weekly demo day meeting:** This is a quick (no more than 10 or 15 minutes) virtual lab meeting where team members show off an accomplishment from the week in 3 minutes or fewer.
+This could be a new figure, section of a paper, some code that they are particularly happy with, or something that we learned from a paper, poster, or research presentation.
+For this, we use [PowerPoint slides](https://olucdenver-my.sharepoint.com/:p:/g/personal/milton_pividori_cuanschutz_edu/EYnxr99YOfREgFaPqe3_uEQB2hu8YFUQrLnqyuth3xKc1Q?e=PIL4hE) to share figures or paper sections for the demo day meeting; the link is pinned in the `#lab-meetings` channel on Slack and is not intended to be shared outside the lab.
+If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments.
+
+**Daily virtual scrum update:**
+The daily virtual scrum update should include an update in the form of a Slack message sent to the `#daily-tasks` channel (We are still testing this approach!).
+For this, you can either send a message via Slack or send an email to [`team-daily-tasks-aaaaljsaebnake2nf6ctjasswi@pivlab.slack.com`](team-daily-tasks-aaaaljsaebnake2nf6ctjasswi@pivlab.slack.com) (which will do the same).
+Every day, before you start to work, think about:
 1. what specific items you've accomplished yesterday,
 1. what specific items you plan to accomplish today,
 1. who, if anyone, is blocking you,
 1. who, if anyone, you are blocking,
-1. take a quick look at what others are doing; can you help them?
 
 **Lab meeting:** 
 - Lab meetings are scheduled for one hour on Wednesdays. All members of the Pividori lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
