@@ -149,7 +149,7 @@ If you are not already listed in the slides, feel free to add a slide with your 
 
 **Daily virtual scrum update:**
 The daily virtual scrum update should include an update in the form of a Slack message sent to the `#daily-tasks` channel (We are still testing this approach!).
-For this, you can either send a message via Slack or send an email to [`team-daily-tasks-aaaaljsaebnake2nf6ctjasswi@pivlab.slack.com`](team-daily-tasks-aaaaljsaebnake2nf6ctjasswi@pivlab.slack.com) (which will do the same).
+For this, you can either send a message via Slack or send an email to [`team-daily-tasks-aaaaljsaebnake2nf6ctjasswi@pivlab.slack.com`](mailto:team-daily-tasks-aaaaljsaebnake2nf6ctjasswi@pivlab.slack.com) (which will do the same).
 Every day, before you start to work, think about:
 1. what specific items you've accomplished yesterday,
 1. what specific items you plan to accomplish today,
