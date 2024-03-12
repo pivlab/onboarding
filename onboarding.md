@@ -146,7 +146,7 @@ If you are not already listed in the slides, feel free to add a slide with your 
 
 **Daily virtual scrum update:**
 The daily virtual scrum update should include an update in the form of a Slack message sent to the `#daily-tasks` channel (We are still testing this approach!).
-For this, you can either send a message via Slack or send an email to the address pinned in the channel.
+For this, you can either send a message via Slack or, for your convenience, send an email to the address pinned in the channel (which will automatically convert it to a Slack message).
 Every day, before you start to work, think about:
 1. what specific items you accomplished yesterday,
 1. what specific items you plan to accomplish today,
