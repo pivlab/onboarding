@@ -136,7 +136,7 @@ Our team's scrum process ("scrum" is a framework typically used in software deve
 
 **Weekly kick-off meeting:** This is a quick (~5 minutes) virtual lab meeting where individuals will lay out their goals for the week on Zoom.
 Each lab member is encouraged to open and update the [pivlab weekly goals](https://github.com/orgs/pivlab/projects/4/views/2) project with their goals for the week.
-You can add a new item using the buttons below under each column (To Do, In Progress, Done); take a look at the existing items to see how they work.
+You can add a new item using the buttons below each column (To Do, In Progress, Done); take a look at the existing items to see how they work.
 The person leading this meeting should open the link and share the screen, and then each lab member (starting from the oldest member) quickly explains what goals they want to accomplish during this week.
 
 **Weekly demo day meeting:** This is a quick (no more than 10 or 15 minutes) virtual lab meeting where team members show off an accomplishment from the week in 3 minutes or fewer.
@@ -148,10 +148,10 @@ If you are not already listed in the slides, feel free to add a slide with your 
 The daily virtual scrum update should include an update in the form of a Slack message sent to the `#daily-tasks` channel (We are still testing this approach!).
 For this, you can either send a message via Slack or send an email to the address pinned in the channel.
 Every day, before you start to work, think about:
-1. what specific items you've accomplished yesterday,
+1. what specific items you accomplished yesterday,
 1. what specific items you plan to accomplish today,
 1. who, if anyone, is blocking you,
-1. who, if anyone, you are blocking,
+1. who, if anyone, you are blocking.
 
 **Lab meeting:** 
 - Lab meetings are scheduled for one hour on Wednesdays. All members of the Pividori lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
