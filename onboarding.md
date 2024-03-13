@@ -145,9 +145,11 @@ For this, we use [PowerPoint slides](https://olucdenver-my.sharepoint.com/:p:/g/
 If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments.
 
 **Daily virtual scrum update:**
-The daily virtual scrum update should include an update in the form of a Slack message sent to the `#daily-tasks` channel (We are still testing this approach!).
-For this, you can either send a message via Slack or, for your convenience, send an email to the address pinned in the channel (which will automatically convert it to a Slack message).
-Every day, before you start to work, think about:
+The daily virtual scrum update should include an update from each individual to the [daily-tasks repository](https://github.com/pivlab/daily-tasks/).
+An issue is automatically created for each workday, and they can be accessed [here](https://github.com/pivlab/daily-tasks/issues).
+Each member of the lab is required to post a comment on the corresponding issue with a list of tasks planned for that day.
+
+When writing this comment, consider the following:
 1. what specific items you accomplished yesterday,
 1. what specific items you plan to accomplish today,
 1. who, if anyone, is blocking you,
