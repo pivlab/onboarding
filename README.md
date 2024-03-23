@@ -14,8 +14,8 @@ For this, we will need your GitHub user.
 * **Request access to the [lab's Slack workspace](https://pivlab.slack.com/)**.
 We need your email address to send you an invitation to join.
 * **Add yourself to the [lab's team webpage](https://pivlab.org/team/)**.
-For this, you need to fork the [lab's webpage GitHub repo](https://github.com/pivlab/pivlab-website), make the necessary changes, and then submit a Pull Request (PR).
-Follow [the documentation on how to add team members](https://greene-lab.gitbook.io/lab-website-template-docs/basics/team-members) and/or take a look at [this PR](https://github.com/pivlab/pivlab-website/pull/4).
+For this, you need to fork the [lab's webpage GitHub repo](https://github.com/pivlab/pivlab-website), create a new branch, make the necessary changes, and then submit a Pull Request (PR).
+Follow [the documentation on how to add team members](https://greene-lab.gitbook.io/lab-website-template-docs/basics/team-members) and/or take a look at some PRs like [this one with a postdoc role](https://github.com/pivlab/pivlab-website/pull/4) or [this one with a PhD student role](https://github.com/pivlab/pivlab-website/pull/10).
 * (optional) **Add your recent publications to the lab's website**.
 If you want visitors to know more about your research, you can add your recent publications to the lab's website.
 This usually involves modifying the `_data/sources.yaml` file.
