@@ -79,7 +79,7 @@ Lab members who travel to such a conference should submit an abstract for an ora
 The conference should be topical for the lab member's research projects and the purpose must align with the grant(s) that support the lab member.
 Lab members should first clear such travel with Milton.
 Lab members who are invited to conferences or other presentation opportunities with their costs covered by the organization inviting them, e.g., as an invited speaker or keynote, are welcome to accept such invitations.
-In all cases, conference travel should be noted on the lab attendance calendar.
+In all cases, conference travel should be noted on the lab attendance calendar (see below on how to use the lab's calendar).
 
 # Communication
 
@@ -118,7 +118,7 @@ If you have concerns at any point, set up a meeting with Milton to discuss these
 In this group, we have a calendar that you should be able to see and modify.
 In this calendar, we add:
 1. *lab events*: mandatory events such as lab meetings, scrums, and group deadlines.
-1. *attendance*: for noting individual availability (i.e. whether you'll be out of the office); it should be used, for example, to note vacations, conference travel, and other workday conflicts.
+1. *attendance*: for noting individual availability (i.e. whether you'll be out of the office); it should be used, for example, to note vacations, conference travel, and other workday conflicts. For example, if you'll be out of the office for a few days, create an event in the "Pividori Lab" calendar with the title "Your name: out of office" or "Your name: attending ASHG."
 
 **Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
 
