@@ -4,6 +4,10 @@
 
 * The importance of stupidity in scientific research [link](https://fermatslibrary.com/s/the-importance-of-stupidity-in-scientific-research)
 
+## Writing
+
+* Elements of successful NIH grant applications [link](https://www.pnas.org/doi/10.1073/pnas.2315735121)
+
 ## Reproducible research
 * The Turing Way [link](https://github.com/the-turing-way/the-turing-way)
 
