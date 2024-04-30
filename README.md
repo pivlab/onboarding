@@ -21,6 +21,8 @@ If you want visitors to know more about your research, you can add your recent p
 This usually involves modifying the `_data/sources.yaml` file.
 See [the documentation on citations](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations) for more information.
 * **Check out [these other setup steps](docs/cu_dbmi.md) to fully join the CU Department of Biomedical Informatics**.
+* Take a look at our [reading list](docs/reading.md). This list contains articles and texts across a variety of topics that we found extremely useful.
+Feel free to suggest your own.
 
 ## Contributing
 
