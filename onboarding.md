@@ -88,7 +88,7 @@ In all cases, conference travel should be noted on the lab attendance calendar (
 **Slack:** We use Slack for rapid communication within the lab.
 If you plan on sending an e-mail to someone within the lab, try a Slack message instead.
 This helps to keep communications in one place, and Milton commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
-There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meetings`, `#daily-tasks` `#random`, `#wins`.
+There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meetings`, `#random`, `#wins`.
 
 **HeyTaco:** We recognize that people regularly go above and beyond lab expectations.
 We wanted a way to recognize each other when this happens.
