@@ -79,7 +79,7 @@ Lab members who travel to such a conference should submit an abstract for an ora
 The conference should be topical for the lab member's research projects and the purpose must align with the grant(s) that support the lab member.
 Lab members should first clear such travel with Milton.
 Lab members who are invited to conferences or other presentation opportunities with their costs covered by the organization inviting them, e.g., as an invited speaker or keynote, are welcome to accept such invitations.
-In all cases, conference travel should be noted on the lab attendance calendar.
+In all cases, conference travel should be noted on the lab attendance calendar (see below on how to use the lab's calendar).
 
 # Communication
 
@@ -88,7 +88,7 @@ In all cases, conference travel should be noted on the lab attendance calendar.
 **Slack:** We use Slack for rapid communication within the lab.
 If you plan on sending an e-mail to someone within the lab, try a Slack message instead.
 This helps to keep communications in one place, and Milton commits to respond to slacks (not necessarily immediately, but the same guarantee is not made for e-mail).
-There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meetings`, `#daily-tasks` `#random`, `#wins`.
+There are many channels on our lab's slack; however, it is recommended that newcomers join the following channels: `#general`, `#lab-meetings`, `#random`, `#wins`.
 
 **HeyTaco:** We recognize that people regularly go above and beyond lab expectations.
 We wanted a way to recognize each other when this happens.
@@ -118,7 +118,7 @@ If you have concerns at any point, set up a meeting with Milton to discuss these
 In this group, we have a calendar that you should be able to see and modify.
 In this calendar, we add:
 1. *lab events*: mandatory events such as lab meetings, scrums, and group deadlines.
-1. *attendance*: for noting individual availability (i.e. whether you'll be out of the office); it should be used, for example, to note vacations, conference travel, and other workday conflicts.
+1. *attendance*: for noting individual availability (i.e. whether you'll be out of the office); it should be used, for example, to note vacations, conference travel, and other workday conflicts. For example, if you'll be out of the office for a few days, create an event in the "Pividori Lab" calendar with the title "Your name: out of office" or "Your name: attending ASHG."
 
 **Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
 
