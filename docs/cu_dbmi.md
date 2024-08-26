@@ -10,3 +10,4 @@ If you're part of the lab, you'll likely need computational resources to run you
 * **Setup the CU VPN in your laptop**
 Follow [these instructions](https://www.cuanschutz.edu/offices/office-of-information-technology/remote-resources/tools-and-software) to set up the VPN client in your laptop so you can access different resources from CU DBMI.
 * If you have a computer desktop on campus, it's convenient to **set up remote desktop software** such as [RustDesk](https://rustdesk.com/) for remote access.
+* If you need to access **popular Windows apps** such as **Microsoft Office** or Adobe Acrobat that are not available in your system (i.e., you're a happy Linux user), you can use a virtual machine provided by CU at https://remote.ucdenver.edu/ by logging in using your university credentials and kicking off the "Complementary" virtual machine. The virtual machine allows to easily access your OneDrive files.
