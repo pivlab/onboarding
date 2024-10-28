@@ -134,13 +134,11 @@ Our team's scrum process ("scrum" is a framework typically used in software deve
 2. A *weekly demo day meeting* at 1:00 PM MT on Friday afternoon.
 3. A *daily virtual scrum update*.
 
-**Weekly kick-off meeting:** This is a quick (~5 minutes) virtual lab meeting where individuals will lay out their goals for the week on Zoom.
-Each lab member is encouraged to open and update the [pivlab weekly goals](https://github.com/orgs/pivlab/projects/4/views/2) project with their goals for the week.
-You can add a new item using the buttons below each column (To Do, In Progress, Done); take a look at the existing items to see how they work.
-The person leading this meeting should open the link and share the screen, and then each lab member (starting from the oldest member) quickly explains what goals they want to accomplish during this week.
+**Weekly kick-off meeting:** This is a quick (~5 minutes) virtual lab meeting where individuals will lay out their weekly goals on Zoom/Teams.
+If you cannot join the kick-off meeting, you are expected to send a short message to the `#lab-meetings` channel (in Slack) with your update before the kick-off meeting.
 
 **Weekly demo day meeting:** This is a quick (no more than 10 or 15 minutes) virtual lab meeting where team members show off an accomplishment from the week in 3 minutes or fewer.
-This could be a new figure, section of a paper, some code that they are particularly happy with, or something that we learned from a paper, poster, or research presentation.
+This could be a new figure, a section of a paper, some code that they are particularly happy with, or something that we learned from a paper, poster, or research presentation.
 For this, we use [PowerPoint slides](https://olucdenver-my.sharepoint.com/:p:/g/personal/milton_pividori_cuanschutz_edu/EYnxr99YOfREgFaPqe3_uEQB2hu8YFUQrLnqyuth3xKc1Q?e=PIL4hE) to share figures or paper sections for the demo day meeting; the link is pinned in the `#lab-meetings` channel on Slack and is not intended to be shared outside the lab.
 If you are not already listed in the slides, feel free to add a slide with your name. Alternatively, screen sharing is possible for code demos or interactive weekly accomplishments.
 
