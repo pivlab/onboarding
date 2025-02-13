@@ -17,7 +17,7 @@ We need your email address to send you an invitation to join.
 For this, you need to fork the [lab's webpage GitHub repo](https://github.com/pivlab/pivlab-website), create a new branch, make the necessary changes, and then submit a Pull Request (PR).
 Follow [the documentation on how to add team members](https://greene-lab.gitbook.io/lab-website-template-docs/basics/team-members) and/or take a look at some PRs like [this one with a postdoc role](https://github.com/pivlab/pivlab-website/pull/4) or [this one with a PhD student role](https://github.com/pivlab/pivlab-website/pull/10).
 * **Ensure your computer meets the Baseline Secure Computing Standards**.
-You are likely going to work with public and highly confidential data.
+You are likely going to work with public, confidential and/or highly confidential data (see [CU Data Classification](https://www.cu.edu/data-governance/resources-support/data-classification)).
 Please, make sure your computer meets the [Baseline Secure Computing Standards](https://www.cuanschutz.edu/offices/information-security-and-it-compliance/resources/security-management/baseline-secure-computing-standards), such as activating automatic updates, enabling the firewall, encrypting the whole disk, among many others.
 * **Check out [these other setup steps](docs/cu_dbmi.md) to fully join the CU Department of Biomedical Informatics**.
 * (optional) **Add your recent publications to the lab's website**.
