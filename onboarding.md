@@ -280,6 +280,9 @@ These items should be version controlled.
 Where possible, intermediate files of reasonable size can be stored to facilitate re-use, but the process to regenerate these files from publicly available data should be preserved.
 When we generate data, they should be stored in a location where they are replicated and uploaded to the relevant database as soon as possible (e.g. GEO for gene expression, SRA for sequencing).
 
+For private or confidential data, **DO NOT PUSH ANY CONFIDENTIAL INFORMATION TO GITHUB**, including any outputs (such as those in Jupyter Notebooks) that may display parts of the data (e.g., using `df.head()` on a pandas DataFrame).
+If you are working with confidential data, especially as a trainee, it is strongly recommended that you start with a private GitHub repository.
+
 **Reproducibility:** We expect all lab members to maintain code that performs reproducible analyses.
 This can be in the form of makefiles, shell scripts, or other automation approaches such as [pytask](https://pytask-dev.readthedocs.io/en/stable/index.html) that allow analyses to be automatically performed.
 We expect that these scripts, including those to generate figures in papers generated as a consequence of such analyses, will be included in source control repositories (see "Getting Code into Pividori Lab Repositories") and made publicly available before or concurrent with the submission of preprint (if submitted) or manuscripts.
