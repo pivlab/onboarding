@@ -35,7 +35,6 @@ Consider the following goals of the onboarding document:
 + Specific: It should be targeted to the lab in question.
 + Enforceable: Failure to meet expectations should have consequences.
 + Living: The document is expected to change.
-+ Local Resources
 
 ## Useful links
 * [Pividori Lab logos](https://github.com/pivlab/pivlab-website/tree/main/images/logo).
