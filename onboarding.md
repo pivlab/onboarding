@@ -49,7 +49,7 @@ However, do note that we work on biological matters, so work-related discussions
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 Members asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Milton Pividori immediately. <!-- If Milton is the cause of your concern, Dr. X (to.be.defined@university.edu) is a good informal point of contact; he/she does not work for Milton and has agreed to mediate. -->
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Milton Pividori immediately.
 For additional resolution paths, please see the University of Colorado Anschutz [ombuds](https://www.ucdenver.edu/offices/ombudsoffice) or [professionalism](https://www.cuanschutz.edu/offices/professionalism) offices.
 The code of conduct section is licensed under a Creative Commons Attribution 3.0 Unported License. <http://2012.jsconf.us/#/about> & The Ada Initiative.
 Please help by translating or improving: <http://github.com/leftlogic/confcodeofconduct.com>.
@@ -112,7 +112,8 @@ Lab members must follow the [University of Colorado | Anschutz policies](https:/
 These often allow, encourage, or require openness.
 If you have concerns at any point, set up a meeting with Milton to discuss these concerns.
 
-**Space:** Space is assigned in accordance with the [Department of Biomedical Informatics Space Policies](https://olucdenver.sharepoint.com/sites/CenterforHealthAI939/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=x1Oz36&cid=4490ca17%2D62a2%2D4093%2Da390%2Dcc8896df587d&FolderCTID=0x012000F2C178B56384E246B75AF7E31B7DEA98&id=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy%2FDBMI%20remote%2Dworking%20and%20space%20guidelines%5FFinal%2Epdf&parent=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy). For individuals meeting the criteria for assigned space, a lab member needs to fill out the [DBMI Space Request Form](https://app.smartsheet.com/b/form/575a2b48af774e3db5689745809c9a5c).
+**Space:** Space is assigned in accordance with the [Department of Biomedical Informatics Space Policies](https://olucdenver.sharepoint.com/sites/CenterforHealthAI939/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=x1Oz36&cid=4490ca17%2D62a2%2D4093%2Da390%2Dcc8896df587d&FolderCTID=0x012000F2C178B56384E246B75AF7E31B7DEA98&id=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy%2FDBMI%20remote%2Dworking%20and%20space%20guidelines%5FFinal%2Epdf&parent=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy).
+For individuals meeting the criteria for assigned space, a lab member needs to fill out the [DBMI Space Request Form](https://app.smartsheet.com/b/form/575a2b48af774e3db5689745809c9a5c).
 
 **Calendars:** When you join the lab, you should be added to the "Pividori Lab" group in Outlook.
 In this group, we have a calendar that you should be able to see and modify.
@@ -123,7 +124,7 @@ In this calendar, we add:
 **Accounts:** Lab members are expected to have accounts for the following and be members of the specified (organizations) if applicable:
 
 + GitHub (pivlab)
-+ Outook (this is the CU account; you should be part of the "Pividori Lab" group)
++ Outlook (this is the CU account; you should be part of the "Pividori Lab" group)
 + Slack (Pividori Lab, pivlab.slack.com)
 
 ## Meetings
@@ -173,7 +174,7 @@ When writing this comment, consider the following:
    - **Format 6: Preprint review**
        - Pre-print is discussed by the group. The discussion is led by the meeting leader,  and all members are expected to be familiar with the content. The review is written collaboratively, but another member (not the meeting leader) formats, formalizes and uploads to the pre-print server as a comment.
 
-  **Lab meeting lead:**  A member of the Pividori lab is expected to present/lead each lab meeting as scheduled in the lab meeting calendar (sign up at [https://docs.google.com/document/d/1KeYg1_ijgHTMxQQLohcmtGX8wEYs_-ayUOn0kmtSq2U/edit?usp=sharing])
+  **Lab meeting lead:**  A member of the Pividori lab is expected to present/lead each lab meeting as scheduled in the [lab meeting calendar](https://docs.google.com/document/d/1KeYg1_ijgHTMxQQLohcmtGX8wEYs_-ayUOn0kmtSq2U/edit?usp=sharing)
    - Each member is expected to sign up as lead by the end of the previous academic semester (e.g., sign up by December for the Spring semester, sign up by June for the Fall semester.)
    - Lab meeting sign-ups will happen twice a year. Sign-ups will open in December and June for the upcoming 6 months.
    - Each member will sign up as lead for at least 2 lab meetings each semester (6 months). At least one of these meetings is expected to be a Braintrust meeting.
@@ -210,7 +211,7 @@ Submit the report in a direct message to Milton via slack.
 <!-- This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle. -->
 <!-- Because much of the material is overlapping, trainees will benefit from preserving their self reflection materials in a format that supports copying and pasting to the IDP form. -->
 
-# Source dode, data, and reproducibility
+# Source code, data, and reproducibility
 
 **Pride:** We expect lab members to sign their code, which means that source code contributions are attributable to an individual's account on GitHub.
 To quote from _The Pragmatic Programmer_:
@@ -229,7 +230,7 @@ Web server interface code uses javascript.
 We release as many research outputs as possible under permissive open licenses.
 This ensures lab research is reusable and reproducible, with minimal legal barriers.
 The default license for software that should be applied to new lab related repositories is the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent).
-This license is [OSI-approved](https://opensource.org/licenses/BSDplusPatent) and [rated highly](https://blueoakcouncil.org/list) for its simplicity, compatability, and effectiveness.
+This license is [OSI-approved](https://opensource.org/licenses/BSDplusPatent) and [rated highly](https://blueoakcouncil.org/list) for its simplicity, compatibility, and effectiveness.
 
 In certain cases, a funding agency requires a different license or upstream restrictions require certain licensing.
 In these cases, the lab may apply a different license.

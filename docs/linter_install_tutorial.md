@@ -2,9 +2,9 @@
 
 ## About
 
-This section describes how to set up running a liner uploading code onto a GitHub repository (git commit ... -> git push).
+This section describes how to set up running a linter before uploading code to a GitHub repository (git commit ... -> git push).
 A [linter](https://en.wikipedia.org/wiki/Lint_(software)) is a code analysis tool designed to analyze code and flag for programming errors, bugs and stylistic errors.
-This tool allows one to drastically improve their productivity when writing code for their research projects as stylistic errors and programming errors will automatically be covered through this set-up.
+This tool allows one to drastically improve their productivity when writing code for their research projects, as stylistic errors and programming errors will automatically be covered through this setup.
 Disclaimer: The following instructions only work for python code as R doesn't have a working linter. (Subject to change if new information were to come out on this fact.)
 
 ## Programs and packages needed to set up pipeline
@@ -22,16 +22,16 @@ This setup will also use the following packages (versions can be changed as need
 
 1. Set up your python environment to use python>=3.5 
 2. Call ``pip install pre-commit==2.9.3``
-3. call ``pip install black==22.3.0``
-4. Create a file with the extension .pre-commit-config.yaml and fill in with lines of code reproduced in the [Configuration Files](#Pre-commit) section
+3. Call ``pip install black==22.3.0``
+4. Create a file with the filename .pre-commit-config.yaml and fill in with lines of code reproduced in the [Configuration Files](#Pre-commit) section
 5. Create a file with the extension .flake8 and fill in with lines of code reproduced in the [Configuration Files](#Flake8) section
-6. Create a file with the extension .toml and fill in with lines of code reproduced in the [Configuration Files](#Black) section
+6. Create a file named pyproject.toml and fill in with lines of code reproduced in the [Configuration Files](#Black) section
 7. Then call command ``pre-commit install`` to install the pipeline to run after the ``git commit`` command is called.
-8. Now the pipeline is installed, and you can test it by calling ``pre-commit``.
+8. Now the pipeline is installed, and you can test it by calling ``pre-commit run``.
 9. Now you can proceed with normal code development and GitHub processes
-10. When you call `git commit`, you will see a few checks being at the start of the committing process.
-11. Checkpoints will fail as files are modified or flake8 errors persist
-12. Review that changes files are to one's liking or manually make changes
+10. When you call `git commit`, you will see a few checks running at the start of the committing process.
+11. Checks will fail if files are modified or flake8 errors persist
+12. Review that changed files are to your liking or manually make changes
 13. Lastly, call ``git add`` on the changed files then call the same ``git commit`` command again.
 
 ## Warnings
