@@ -112,7 +112,7 @@ Lab members must follow the [University of Colorado | Anschutz policies](https:/
 These often allow, encourage, or require openness.
 If you have concerns at any point, set up a meeting with Milton to discuss these concerns.
 
-**Space:** Space is assigned in accordance with the [Department of Biomedical Informatics Space Policies](https://olucdenver.sharepoint.com/sites/CenterforHealthAI939/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=x1Oz36&cid=4490ca17%2D62a2%2D4093%2Da390%2Dcc8896df587d&FolderCTID=0x012000F2C178B56384E246B75AF7E31B7DEA98&id=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy%2FDBMI%20remote%2Dworking%20and%20space%20guidelines%5FFinal%2Epdf&parent=%2Fsites%2FCenterforHealthAI939%2FShared%20Documents%2FGeneral%2FDBMI%20Final%20Policy).
+**Space:** Space is assigned in accordance with the [Department of Biomedical Informatics Space Policies](https://olucdenver.sharepoint.com/:b:/r/sites/CenterforHealthAI939/Shared%20Documents/General/DBMI%20Final%20Policy/Operations_Support%20-%20OS/DBMI_OS%20remote-working%20and%20space%20guidelines%208.26.2022.pdf?csf=1&web=1&e=9igb5G).
 For individuals meeting the criteria for assigned space, a lab member needs to fill out the [DBMI Space Request Form](https://app.smartsheet.com/b/form/575a2b48af774e3db5689745809c9a5c).
 
 **Calendars:** When you join the lab, you should be added to the "Pividori Lab" group in Outlook.
