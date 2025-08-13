@@ -174,7 +174,7 @@ When writing this comment, consider the following:
    - **Format 6: Preprint review**
        - Pre-print is discussed by the group. The discussion is led by the meeting leader,  and all members are expected to be familiar with the content. The review is written collaboratively, but another member (not the meeting leader) formats, formalizes and uploads to the pre-print server as a comment.
 
-  **Lab meeting lead:**  A member of the Pividori lab is expected to present/lead each lab meeting as scheduled in the [lab meeting calendar](https://docs.google.com/document/d/1KeYg1_ijgHTMxQQLohcmtGX8wEYs_-ayUOn0kmtSq2U/edit?usp=sharing)
+  **Lab meeting lead:**  A member of the Pividori lab is expected to present/lead each lab meeting as scheduled in the Pividori Lab Outlook Calendar (as a lab member, you can edit a *single* (not the series) lab meeting event, titled "Pividori Lab - Weekly lab meeting", to reserve that spot, such as "Pividori Lab - XXX presenting cool paper").
    - Each member is expected to sign up as lead by the end of the previous academic semester (e.g., sign up by December for the Spring semester, sign up by June for the Fall semester.)
    - Lab meeting sign-ups will happen twice a year. Sign-ups will open in December and June for the upcoming 6 months.
    - Each member will sign up as lead for at least 2 lab meetings each semester (6 months). At least one of these meetings is expected to be a Braintrust meeting.
