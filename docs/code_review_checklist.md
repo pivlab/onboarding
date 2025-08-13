@@ -5,7 +5,7 @@ Each commit must be attributed to a recognized user.
 
 **Licensing:** A LICENSE file is in the root of the repository.
 
-**Using others code:** Code taken from elsewhere is properly acknowledged and compatible with the license.
+**Using others' code:** Code taken from elsewhere is properly acknowledged and compatible with the license.
 
 **Style guide:** Python code follows [PEP 8](https://www.python.org/dev/peps/pep-0008).
 R code follows [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml).
@@ -33,9 +33,9 @@ One reason for this is to aid in readability of `diff` output when performing co
 
 **Whitespace:** There is no unnecessary whitespace.
 
-**Code with constants** Any constants are specified at the beginning of the file.
+**Code with constants:** Any constants are specified at the beginning of the file.
 
-**Code that uses a random seed [special case of constants]** Code that uses a random seed is reproducible.
+**Code that uses a random seed [special case of constants]:** Code that uses a random seed is reproducible.
 This means that the seed can be set *and* a default value is specified.
 
-**API error handling** APIs should catch and handle anticipated errors (e.g. key doesn't exist, type mismatch in lookup) by identifying the source of the error (e.g. lookup failed with PK=XYZ) to the caller with as much precision as possible.
+**API error handling:** APIs should catch and handle anticipated errors (e.g. key doesn't exist, type mismatch in lookup) by identifying the source of the error (e.g. lookup failed with PK=XYZ) to the caller with as much precision as possible.
