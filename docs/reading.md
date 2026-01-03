@@ -36,3 +36,93 @@
     ```
   * `sudo update-initramfs -u`
 
+### Install Pop!_OS 24.04 with two disks using LVM and LUKS (encryption)
+
+This assumes the computer has two disks.
+
+First, on a new computer, make a clean install ("erases all").
+
+Then, login into the newly installed system and run the following commands.
+
+Identify disks:
+```bash
+lsblk -o NAME,SIZE,MODEL,SERIAL,TYPE
+```
+
+The following assumes that the new disk is in `/dev/nvme1n1`.
+
+Wipe old signatures:
+
+```bash
+sudo wipefs -af /dev/nvme1n1
+sudo parted -s /dev/nvme1n1 mklabel gpt
+sudo parted -s /dev/nvme1n1 mkpart primary 1MiB 100%
+sudo parted -s /dev/nvme1n1 set 1 lvm on
+
+# re-read partition tables
+# you should have /dev/nvme1n1p1
+sudo partprobe
+lsblk
+```
+
+Encrypt new partition with LUKS:
+
+```bash
+sudo cryptsetup luksFormat /dev/nvme1n1p1
+sudo cryptsetup open /dev/nvme1n1p1 cryptdata1
+```
+
+Build LVM on top of the decrypted devices:
+
+```bash
+sudo pvcreate /dev/mapper/cryptdata1
+# verify
+sudo pvs
+sudo lvmdiskscan -l
+sudo vgs
+sudo lvdisplay
+```
+
+Add newly created physical volume (pv) to volume group (vg) named `data`:
+
+```bash
+sudo vgextend data /dev/mapper/cryptdata1
+sudo lvm lvextend -l +100%FREE /dev/data/root
+
+# but df -h still not showing right size:
+df -h
+# so you have to also run:
+sudo resize2fs -p /dev/mapper/data-root
+# check again
+df -h
+```
+
+Now, BEFORE YOU RESTART, it's very important to do update `/etc/crypttab` (if you fail to do this, you will have to boot from a USB drive, chroot, update-initramfs, etc).
+
+```bash
+# get uuid (change partitions accordingly)
+sudo blkid /dev/nvme0n1p3 /dev/nvme1n1p1
+```
+
+Open `/etc/crypttab` and make sure both pv (that are encrypted with LUKS) are included with correct UUID got before:
+
+```
+cryptdata UUID=... crypt_disks luks,keyscript=decrypt_keyctl
+cryptdata1 UUID=... crypt_disks luks,keyscript=decrypt_keyctl
+[...]
+```
+
+The `decrypt_keyctl` options assume you used the same passphrase for both volumes (so you enter it only once at boot time).
+
+Finally, and very important:
+
+```bash
+# decrypt_keyctl is included in the keyutils package
+sudo apt install keyutils
+```
+
+```bash
+sudo update-initramfs -u -k all
+```
+
+Reboot. Make sure everything works and you enter the passphrase only once.
