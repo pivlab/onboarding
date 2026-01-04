@@ -201,15 +201,13 @@ To prepare for these meetings students and staff are required to create an activ
 - meeting abstracts: submitted/accepted
 - software releases
 - other honors
+- goals from prior session: did you achieve the goals set previously?
 - goals for next session: What would you like to accomplish by the end of next cycle?
 - self-reflection. What do you regard as your strengths and as areas where you need improvement?
 
-The report should be in the form of a plain text file, markdown file, or PDF and the file should be called lastname-reflection-yearmonth (e.g. Pividori-reflection-202308.txt).
-Submit the report in a direct message to Milton via slack.
-<!-- How does this work at CU? - During the summer, graduate students are required to complete CU's individual development plan (IDP). -->
-<!-- Post-docs must complete an IDP prior to their annual contract renewal. -->
-<!-- This document covers more in-depth content than the regular triannual self reflection; therefore, the IDP can be used as a replacement annual report for that cycle. -->
-<!-- Because much of the material is overlapping, trainees will benefit from preserving their self reflection materials in a format that supports copying and pasting to the IDP form. -->
+The report should be in the form of a plain text file, markdown file, or PDF and the file should be called `lastname-reflection-yearmonth` (e.g. `Pividori-reflection-202308.txt`).
+Submit the report in an email to Milton with the subject `[Full name] Triannual Reflection [Month]/[Year]`, (e.g. `Milton Pividori Triannual Reflection 02/2026`).
+These reflections are due at the end of February, June and October each year, and are also added to the lab calendar.
 
 # Source code, data, and reproducibility
 
