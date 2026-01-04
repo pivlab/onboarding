@@ -202,7 +202,7 @@ To prepare for these meetings students and staff are required to create an activ
 - software releases
 - other honors
 - goals from prior session: did you achieve the goals set previously?
-- goals for next session: What would you like to accomplish by the end of next cycle?
+- goals for next session: what would you like to accomplish by the end of next cycle?
 - self-reflection. What do you regard as your strengths and as areas where you need improvement?
 
 The report should be in the form of a plain text file, markdown file, or PDF and the file should be called `lastname-reflection-yearmonth` (e.g. `Pividori-reflection-202308.txt`).
