@@ -287,7 +287,7 @@ This can be in the form of makefiles, shell scripts, or other automation approac
 We expect that these scripts, including those to generate figures in papers generated as a consequence of such analyses, will be included in source control repositories (see "Getting Code into Pividori Lab Repositories") and made publicly available before or concurrent with the submission of preprint (if submitted) or manuscripts.
 Combined with the review guidelines, this means that all code must have been reviewed for these documents to be submitted.
 
-## How to modify this document
+# How to modify this document
 
 This is a living document.
 The repository is at [GitHub](https://github.com/pivlab/onboarding).
