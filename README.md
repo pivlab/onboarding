@@ -19,6 +19,7 @@ Follow [the documentation on how to add team members](https://greene-lab.gitbook
 * **Ensure your computer meets the Baseline Secure Computing Standards**.
 You are likely going to work with public, confidential and/or highly confidential data (see [CU Data Classification](https://www.cu.edu/data-governance/resources-support/data-classification)).
 Please, make sure your computer meets the [Baseline Secure Computing Standards](https://www.cuanschutz.edu/offices/information-security-and-it-compliance/resources/security-management/baseline-secure-computing-standards), such as activating automatic updates, enabling the firewall, encrypting the whole disk, among many others.
+Also, see the Office of Information Security list of [Top Ten Actions to Reduce Risk](https://www.cu.edu/security/are-you-taking-these-10-steps-keep-data-safe) to keep your account and data safe.
 * **Check out [these other setup steps](docs/cu_dbmi.md) to fully join the CU Department of Biomedical Informatics**.
 * (optional) **Add your recent publications to the lab's website**.
 If you want visitors to know more about your research, you can add your recent publications to the lab's website.
