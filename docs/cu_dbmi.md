@@ -8,7 +8,7 @@ Many faculty members, postdocs, and students are part of these workspaces, and i
   * [CO Biomedical Informatics](cobiomed.slack.com)
   * [CU Anschutz Bioinformaticians]( cuanschutzbio-9zx7150.slack.com)  
 
-* [Future PI Slack](futurepi.slack.com) (useful for postdocs)
+  * [Future PI Slack](futurepi.slack.com) (useful for postdocs)
 * **Request access to the [Alpine Cluster](https://www.cuanschutz.edu/offices/office-of-information-technology/tools-services/HPC).**
 If you're part of the lab, you'll likely need computational resources to run your experiments on large datasets.
 * **Setup the CU VPN in your laptop**
