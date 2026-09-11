@@ -13,6 +13,9 @@ Check out the [GitHub Global Campus](https://education.github.com/).
 For this, we will need your GitHub user.
 * **Request access to the [lab's Slack workspace](https://pivlab.slack.com/)**.
 We need your email address to send you an invitation to join.
+* **Request a seat in the lab space**.
+Email the DBMI Admin team at <dbmi.adminteam@cuanschutz.edu> to have a seat assigned to you.
+See [these other setup steps](docs/cu_dbmi.md) for more details.
 * **Add yourself to the [lab's team webpage](https://pivlab.org/team/)**.
 For this, you need to fork the [lab's webpage GitHub repo](https://github.com/pivlab/pivlab-website), create a new branch, make the necessary changes, and then submit a Pull Request (PR).
 Follow [the documentation on how to add team members](https://greene-lab.gitbook.io/lab-website-template-docs/basics/team-members) and/or take a look at some PRs like [this one with a postdoc role](https://github.com/pivlab/pivlab-website/pull/4) or [this one with a PhD student role](https://github.com/pivlab/pivlab-website/pull/10).

@@ -3,6 +3,11 @@
 As a new member of the lab, you're also a member of the CU Department of Biomedical Informatics (DBMI).
 The list below contains a series of tasks that you will likely need to complete to fully join the DBMI.
 
+* **Request a seat**.
+Email the DBMI Admin team at <dbmi.adminteam@cuanschutz.edu> to have a seat assigned to you.
+This applies to all new trainees, including rotation students.
+The lab is located on the 7th floor of the Anschutz Health Sciences Building (AHSB), and lab members usually sit close to Milton's office.
+See the "Space" section of the [onboarding document](../onboarding.md) for the DBMI space policies and the space request form.
 * **Request access to join the relevant Slack workspaces**.
 Many faculty members, postdocs, and students are part of these workspaces, and it is convenient to be in touch with the rest.
   * [CO Biomedical Informatics](https://cobiomed.slack.com)

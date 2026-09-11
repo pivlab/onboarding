@@ -114,6 +114,8 @@ If you have concerns at any point, set up a meeting with Milton to discuss these
 
 **Space:** Space is assigned in accordance with the [Department of Biomedical Informatics Space Policies](https://olucdenver.sharepoint.com/:b:/r/sites/CenterforHealthAI939/Shared%20Documents/General/DBMI%20Final%20Policy/Operations_Support%20-%20OS/DBMI_OS%20remote-working%20and%20space%20guidelines%208.26.2022.pdf?csf=1&web=1&e=9igb5G).
 For individuals meeting the criteria for assigned space, a lab member needs to fill out the [DBMI Space Request Form](https://app.smartsheet.com/b/form/575a2b48af774e3db5689745809c9a5c).
+The lab is located on the 7th floor of the Anschutz Health Sciences Building (AHSB), and lab members usually sit close to Milton's office.
+New lab members, including rotation students, should email the DBMI Admin team at <dbmi.adminteam@cuanschutz.edu> to have a seat assigned to them (see [these setup steps](docs/cu_dbmi.md)).
 
 **Calendars:** When you join the lab, you should be added to the "Pividori Lab" group in Outlook.
 In this group, we have a calendar that you should be able to see and modify.
