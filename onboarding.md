@@ -33,6 +33,9 @@ Milton is by training a software engineer and as time allows, he will also provi
 For this, abstracts for meetings must be shared with all co-authors, including Milton, at least one week prior to the deadline for submission.
 Failure to abide by this guideline will result in missing whatever the opportunity in question is.
 
+For grant/fellowship proposals and manuscripts, you are also encouraged to use DBMI Research Development, which reviews proposals and manuscripts and organizes chalk talks for everyone in the department, with a focus on trainees (see [how to contact them](docs/cu_dbmi.md)).
+Plan ahead, since these reviews require lead time.
+
 Trainees in the lab will often receive opportunities to present their work at scientific conferences.
 These presentations reflect on the entire lab.
 Oral presentations on projects must be presented to the research lab during a `braintrust` meeting, and lab members are expected to address feedback that is provided.
@@ -156,17 +159,17 @@ When writing this comment, consider the following:
 1. who, if anyone, is blocking you,
 1. who, if anyone, you are blocking.
 
-**Lab meeting:** 
-- Lab meetings are scheduled for one hour on Wednesdays. All members of the Pividori lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions. 
+**Lab meeting:**
+- Lab meetings are scheduled for one hour on Wednesdays. All members of the Pividori lab are expected to attend if possible. Meetings are expected to be a supportive environment for learning, constructive criticism, help, and scientific discussions.
 
    **Meeting agenda:**  The format of each meeting will be chosen by the lab meeting lead from the options below. The lead will rotate among lab members (see below) within the group. Guests with aligned research interests may join with a supermajority vote of lab members (>2/3) and are expected to attend and participate fully.
 
-    The lead will choose the format for each meeting. The different options for meeting formats are outlined below. Each member is expected to lead at least two Braintrust meetings per year (one every 6 months). 
+    The lead will choose the format for each meeting. The different options for meeting formats are outlined below. Each member is expected to lead at least two Braintrust meetings per year (one every 6 months).
 
    - **Format 1: Braintrust**
         - The meeting lead presents their own research/project to the group. Presenters often focus on open questions or challenges in their work. Occasionally, they present a new talk or set of slides that they intend to deliver at a meeting, job talk, etc. This is a way for the group to get familiar with each other's work. It is also a good way to get feedback, advice, or help with research if needed.
    - **Format 2: Tech talk/discussion**
-        - Talks on commonly used tech in the labs, or strategies for staying on top of the literature, organization, etc.    
+        - Talks on commonly used tech in the labs, or strategies for staying on top of the literature, organization, etc.
    - **Format 3: Post-conference presentations**
         - Journal club talk on favorite poster/talk. Either from each person or from a selected set that the group votes on.
    - **Format 4: Big ideas or projects**
